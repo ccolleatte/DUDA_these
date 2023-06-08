@@ -5,7 +5,7 @@ Ce travail a été réalisé dans le cadre d'un projet universitaire.
 ## les données
 Les données sont en open data, accessibles à l'adresse suivante : https://fil.abes.fr/2022/03/10/les-donnees-de-theses-fr-disponibles-sur-data-gouv-fr/.
 
-Un extrait du jeu de données retravaillé est partagé sous la nom PhD_dataset.csv (le fichier complet pèse 153 Mo et contient 448047 enregistrements, sa structure est la suivante : 
+Un extrait du jeu de données retravaillé (~1% de la base) est partagé sous la nom PhD_dataset.csv (le fichier complet pèse 153 Mo et contient 448047 enregistrements, sa structure est la suivante : 
 
 --   Column                                    Non-Null Count   Dtype  
 ---  ------                                    --------------   -----  
