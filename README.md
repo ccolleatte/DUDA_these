@@ -1,6 +1,12 @@
 # DUDA_these
 ## Contexte : travail d'analyse des thèses (DU data analyst)
-Ce travail a été réalisé dans le cadre d'un projet universitaire. 
+Ce travail a été réalisé dans le cadre d'un projet universitaire d'analyse des données de thèses afin de s'exercer à la manipulation des données (nettoyage, visualisation...). 
+
+## Comment faire tourner le code
+Le code a été écrit dans un notebook Jupyter. Il peut donc être lancé à partir de Jupyter Notebook.
+
+## Installation des dépendances
+Si la version de Jupyter est à jour (6.5.x ou supérieur), les librairies complémentaires sont importées dès les premières lignes. Elles sont énumérées dans le fichier requirements.txt (numpy, gc, pandas, matplotlib, seaborn, missingno).
 
 ## les données
 Les données sont en open data, accessibles à l'adresse suivante : https://fil.abes.fr/2022/03/10/les-donnees-de-theses-fr-disponibles-sur-data-gouv-fr/.

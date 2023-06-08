@@ -1,3 +1,6 @@
+# Dossier source
+src/
+
 # Fichiers de bytecode Python
 *.pyc
 
