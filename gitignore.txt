@@ -1,0 +1,25 @@
+# Dossier source
+src/
+
+# Fichiers de bytecode Python
+*.pyc
+
+# Fichiers de configuration spécifiques à l'environnement
+.env
+config.ini
+
+# Fichiers de logs
+*.log
+
+# Fichiers de sauvegarde automatique des éditeurs de texte
+*~
+
+# Fichiers d'environnement pour pipenv
+.Python
+.pipfile
+.pipfile.lock
+
+# Fichiers de cache ou temporaires
+__pycache__/
+.cache/
+*.swp
